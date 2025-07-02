@@ -51,3 +51,14 @@ Utilizamos um modelo de regressão do Gradient Boosting Machine para prever o pr
 ## Resultados
 
 Os resultados mostram a precisão das previsões do modelo em comparação com os valores reais do Bitcoin. Gráficos ilustrativos foram gerados para demonstrar a performance.
+
+![image](https://github.com/user-attachments/assets/5c0432b9-65c0-4e1d-b9cf-a365898ffa71)
+
+precos BTC Junho
+![image](https://github.com/user-attachments/assets/04ee1cc9-a243-4808-b4de-754a9e235233)
+
+precos Ethe Junho
+![image](https://github.com/user-attachments/assets/c6385064-1067-49aa-bb7e-ef63ef2dfed2)
+
+
+
